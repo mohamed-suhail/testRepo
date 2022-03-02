@@ -369,11 +369,11 @@
 </String>
 <String>
 <Name>Set Value</Name>
-<Val>1.00</Val>
+<Val>2.00</Val>
 </String>
 <DBL>
 <Name>Timeout Time</Name>
-<Val>10.00000000000000</Val>
+<Val>7.00000000000000</Val>
 </DBL>
 <Boolean>
 <Name>Use Default Timeout?</Name>
@@ -549,6 +549,20 @@
 <Cluster>
 </Cluster>
 <Cluster>
+<Name>Wait.lvclass</Name>
+<NumElts>1</NumElts>
+<Cluster>
+<Name>Cluster</Name>
+<NumElts>2</NumElts>
+<String>
+<Name>Step Name</Name>
+<Val>Wait</Val>
+</String>
+<DBL>
+<Name>Wait Time[s]</Name>
+<Val>2.00000000000000</Val>
+</DBL>
+</Cluster>
 </Cluster>
 </Object>
 <EW>
