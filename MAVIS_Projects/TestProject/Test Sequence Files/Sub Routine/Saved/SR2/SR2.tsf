@@ -11,7 +11,7 @@
 <NumElts>5</NumElts>
 <Array>
 <Name>Step details</Name>
-<Dimsize>3</Dimsize>
+<Dimsize>4</Dimsize>
 <Object>
 <Name>Step details.lvclass</Name>
 <NumLevels>1</NumLevels>
@@ -59,11 +59,11 @@
 <NumElts>3</NumElts>
 <Path>
 <Name>Main UI Path</Name>
-<Val>D:\Draeger SC\Sprint 14\MAVIS Test Plugins\Child Class\Flow Control Plugins\Child Class\Wait\Wait_Config.vi</Val>
+<Val>D:\Sprint-14\MAVIS Test Plugins\Child Class\Flow Control Plugins\Child Class\Wait\Wait_Config.vi</Val>
 </Path>
 <Path>
 <Name>Config UI Path</Name>
-<Val>D:\Draeger SC\Sprint 14\MAVIS Test Plugins\Child Class\Flow Control Plugins\Child Class\Wait\Wait_Config.vi</Val>
+<Val>D:\Sprint-14\MAVIS Test Plugins\Child Class\Flow Control Plugins\Child Class\Wait\Wait_Config.vi</Val>
 </Path>
 <Cluster>
 <Name>Basic Step Details</Name>
@@ -346,11 +346,11 @@
 <NumElts>3</NumElts>
 <Path>
 <Name>Main UI Path</Name>
-<Val>D:\Draeger SC\Sprint 14\MAVIS Test Plugins\Child Class\Flow Control Plugins\Child Class\Wait\Wait_Config.vi</Val>
+<Val>D:\Sprint-14\MAVIS Test Plugins\Child Class\Flow Control Plugins\Child Class\Wait\Wait_Config.vi</Val>
 </Path>
 <Path>
 <Name>Config UI Path</Name>
-<Val>D:\Draeger SC\Sprint 14\MAVIS Test Plugins\Child Class\Flow Control Plugins\Child Class\Wait\Wait_Config.vi</Val>
+<Val>D:\Sprint-14\MAVIS Test Plugins\Child Class\Flow Control Plugins\Child Class\Wait\Wait_Config.vi</Val>
 </Path>
 <Cluster>
 <Name>Basic Step Details</Name>
@@ -633,11 +633,11 @@
 <NumElts>3</NumElts>
 <Path>
 <Name>Main UI Path</Name>
-<Val>D:\Draeger SC\Sprint 14\MAVIS Test Plugins\Child Class\Flow Control Plugins\Child Class\Wait\Wait_Config.vi</Val>
+<Val>D:\Sprint-14\MAVIS Test Plugins\Child Class\Flow Control Plugins\Child Class\Wait\Wait_Config.vi</Val>
 </Path>
 <Path>
 <Name>Config UI Path</Name>
-<Val>D:\Draeger SC\Sprint 14\MAVIS Test Plugins\Child Class\Flow Control Plugins\Child Class\Wait\Wait_Config.vi</Val>
+<Val>D:\Sprint-14\MAVIS Test Plugins\Child Class\Flow Control Plugins\Child Class\Wait\Wait_Config.vi</Val>
 </Path>
 <Cluster>
 <Name>Basic Step Details</Name>
@@ -873,6 +873,389 @@
 </Cluster>
 </Cluster>
 </Object>
+<Object>
+<Name>Step details.lvclass</Name>
+<NumLevels>1</NumLevels>
+<Class>Step details.lvclass</Class>
+<Version>1.0.0.11</Version>
+<Cluster>
+<Name>Step details.lvclass</Name>
+<NumElts>1</NumElts>
+<Cluster>
+<Name>Step Details</Name>
+<NumElts>11</NumElts>
+<String>
+<Name>Step Tag</Name>
+<Val>Prosim8_&lt;04:35:34:.886&gt;</Val>
+</String>
+<Boolean>
+<Name>Skip?</Name>
+<Val>0</Val>
+</Boolean>
+<I32>
+<Name>Indent Level</Name>
+<Val>0</Val>
+</I32>
+<Boolean>
+<Name>Conditional Step?</Name>
+<Val>0</Val>
+</Boolean>
+<Boolean>
+<Name>Breakpoint</Name>
+<Val>0</Val>
+</Boolean>
+<String>
+<Name>Sub-Routine Protocol ID</Name>
+<Val></Val>
+</String>
+<Object>
+<Name>Mavis Step Plugin Base.lvclass</Name>
+<NumLevels>4</NumLevels>
+<Class>Prosim8.lvclass</Class>
+<Version>1.0.0.7</Version>
+<Version>1.0.0.1</Version>
+<Version>1.0.0.1</Version>
+<Version>1.0.0.23</Version>
+<Cluster>
+<Name>Mavis Step Plugin Base.lvclass</Name>
+<NumElts>3</NumElts>
+<Path>
+<Name>Main UI Path</Name>
+<Val>D:\Sprint-14\MAVIS Test Plugins\Child Class\Test Plugins\Child Class\Application Test Plugins\Child Class\Prosim8\Configuration Panel.vi</Val>
+</Path>
+<Path>
+<Name>Config UI Path</Name>
+<Val>D:\Sprint-14\MAVIS Test Plugins\Child Class\Test Plugins\Child Class\Application Test Plugins\Child Class\Prosim8\Sub VI\Plugin Config VI.vi</Val>
+</Path>
+<Cluster>
+<Name>Basic Step Details</Name>
+<NumElts>25</NumElts>
+<String>
+<Name>Step Description</Name>
+<Val>Prosim8</Val>
+</String>
+<String>
+<Name>Expected Value</Name>
+<Val>*</Val>
+</String>
+<String>
+<Name>Req ID</Name>
+<Val></Val>
+</String>
+<String>
+<Name>Set Value</Name>
+<Val>AMBM=ON
+</Val>
+</String>
+<DBL>
+<Name>Timeout Time</Name>
+<Val>10.00000000000000</Val>
+</DBL>
+<Boolean>
+<Name>Use Default Timeout?</Name>
+<Val>0</Val>
+</Boolean>
+<String>
+<Name>Plugin Name</Name>
+<Val>Prosim8</Val>
+</String>
+<EW>
+<Name>Step Type</Name>
+<Choice>Structures</Choice>
+<Choice>MAVIS Step</Choice>
+<Choice>Sub-Routine</Choice>
+<Choice>None</Choice>
+<Choice>Misc</Choice>
+<Val>1</Val>
+</EW>
+<EW>
+<Name>Structure Type</Name>
+<Choice>Group Steps</Choice>
+<Choice>For</Choice>
+<Choice>If</Choice>
+<Choice>Else If</Choice>
+<Choice>Else</Choice>
+<Choice>Wait</Choice>
+<Choice>Sub-Routine</Choice>
+<Choice>None</Choice>
+<Choice>Label</Choice>
+<Choice>Misc</Choice>
+<Choice>Break</Choice>
+<Val>7</Val>
+</EW>
+<Refnum>
+<Name>Plugin User Event Ref</Name>
+<RefKind>User Event Refnum</RefKind>
+<Val>0x00000000</Val>
+</Refnum>
+<String>
+<Name>Read Value</Name>
+<Val></Val>
+</String>
+<String>
+<Name>Plugin type</Name>
+<Val></Val>
+</String>
+<Cluster>
+<Name>ROI</Name>
+<NumElts>2</NumElts>
+<Array>
+<Name>Global Rectangle</Name>
+<Dimsize>0</Dimsize>
+<I32>
+<Name>Numeric Control</Name>
+<Val></Val>
+</I32>
+</Array>
+<Array>
+<Name>Contours</Name>
+<Dimsize>0</Dimsize>
+<Cluster>
+<Name>Cluster</Name>
+<NumElts>3</NumElts>
+<U32>
+<Name>Contour Type</Name>
+<Val></Val>
+</U32>
+<U32>
+<Name>ROI Type</Name>
+<Val></Val>
+</U32>
+<Array>
+<Name>Points</Name>
+<Dimsize>0</Dimsize>
+<I32>
+<Name>Numeric Control</Name>
+<Val></Val>
+</I32>
+</Array>
+</Cluster>
+</Array>
+</Cluster>
+<Boolean>
+<Name>Child only?</Name>
+<Val>1</Val>
+</Boolean>
+<Array>
+<Name>Required Data Names </Name>
+<Dimsize>0</Dimsize>
+<String>
+<Name>String</Name>
+<Val></Val>
+</String>
+</Array>
+<Array>
+<Name>Multiple ROI </Name>
+<Dimsize>0</Dimsize>
+<Cluster>
+<Name>ROI</Name>
+<NumElts>2</NumElts>
+<Array>
+<Name>Global Rectangle</Name>
+<Dimsize>0</Dimsize>
+<I32>
+<Name>Numeric Control</Name>
+<Val></Val>
+</I32>
+</Array>
+<Array>
+<Name>Contours</Name>
+<Dimsize>0</Dimsize>
+<Cluster>
+<Name>Cluster</Name>
+<NumElts>3</NumElts>
+<U32>
+<Name>Contour Type</Name>
+<Val></Val>
+</U32>
+<U32>
+<Name>ROI Type</Name>
+<Val></Val>
+</U32>
+<Array>
+<Name>Points</Name>
+<Dimsize>0</Dimsize>
+<I32>
+<Name>Numeric Control</Name>
+<Val></Val>
+</I32>
+</Array>
+</Cluster>
+</Array>
+</Cluster>
+</Array>
+<Boolean>
+<Name>Multiple ROI?</Name>
+<Val>0</Val>
+</Boolean>
+<Boolean>
+<Name>Log in Word?</Name>
+<Val>0</Val>
+</Boolean>
+<Boolean>
+<Name>Log in XML?</Name>
+<Val>0</Val>
+</Boolean>
+<String>
+<Name>Expected Result Description</Name>
+<Val></Val>
+</String>
+<String>
+<Name>Actual Result on Pass description</Name>
+<Val></Val>
+</String>
+<String>
+<Name>Actual Result on Fail description</Name>
+<Val></Val>
+</String>
+<Boolean>
+<Name>Append Expected value ?</Name>
+<Val>0</Val>
+</Boolean>
+<Boolean>
+<Name>Actual Result on Pass append ?</Name>
+<Val>0</Val>
+</Boolean>
+<Boolean>
+<Name>Actual Result on Fail append ?</Name>
+<Val>0</Val>
+</Boolean>
+</Cluster>
+</Cluster>
+<Cluster>
+</Cluster>
+<Cluster>
+</Cluster>
+<Cluster>
+<Name>Prosim8.lvclass</Name>
+<NumElts>1</NumElts>
+<Cluster>
+<Name>Configuration</Name>
+<NumElts>16</NumElts>
+<String>
+<Name>Command String</Name>
+<Val>AMBM=</Val>
+</String>
+<String>
+<Name>Expected String Response</Name>
+<Val>*</Val>
+</String>
+<I32>
+<Name>Response Timeout (ms)</Name>
+<Val>2000</Val>
+</I32>
+<String>
+<Name>Response Termination Character</Name>
+<Val>CRLF</Val>
+</String>
+<String>
+<Name>Instrument Name</Name>
+<Val>Prosim8</Val>
+</String>
+<String>
+<Name>Selected Cmd Set</Name>
+<Val>Ambient Light Commands Set</Val>
+</String>
+<EW>
+<Name>Command Mode</Name>
+<Choice>Command Set</Choice>
+<Choice>Raw Command</Choice>
+<Choice>Connect</Choice>
+<Choice>Disconnect</Choice>
+<Val>0</Val>
+</EW>
+<Boolean>
+<Name>Default Response</Name>
+<Val>1</Val>
+</Boolean>
+<String>
+<Name>Value String</Name>
+<Val>ON
+</Val>
+</String>
+<String>
+<Name>Command Termination Character</Name>
+<Val>CRLF</Val>
+</String>
+<String>
+<Name>Command Key</Name>
+<Val>AMBM=mode</Val>
+</String>
+<String>
+<Name>Iteration Parameter</Name>
+<Val>Mode</Val>
+</String>
+<String>
+<Name>Command + Value String</Name>
+<Val>AMBM=ON
+</Val>
+</String>
+<Boolean>
+<Name>Use Variable Exp?</Name>
+<Val>0</Val>
+</Boolean>
+<String>
+<Name>Variable Name Exp</Name>
+<Val></Val>
+</String>
+<Array>
+<Name>Use Variable array?</Name>
+<Dimsize>4</Dimsize>
+<Boolean>
+<Name>Use Variable 4?</Name>
+<Val>0</Val>
+</Boolean>
+<Boolean>
+<Name>Use Variable 4?</Name>
+<Val>0</Val>
+</Boolean>
+<Boolean>
+<Name>Use Variable 4?</Name>
+<Val>0</Val>
+</Boolean>
+<Boolean>
+<Name>Use Variable 4?</Name>
+<Val>0</Val>
+</Boolean>
+</Array>
+</Cluster>
+</Cluster>
+</Object>
+<EW>
+<Name>Step Type</Name>
+<Choice>Structures</Choice>
+<Choice>MAVIS Step</Choice>
+<Choice>Sub-Routine</Choice>
+<Choice>None</Choice>
+<Choice>Misc</Choice>
+<Val>1</Val>
+</EW>
+<EW>
+<Name>Structure Type</Name>
+<Choice>Group Steps</Choice>
+<Choice>For</Choice>
+<Choice>If</Choice>
+<Choice>Else If</Choice>
+<Choice>Else</Choice>
+<Choice>Wait</Choice>
+<Choice>Sub-Routine</Choice>
+<Choice>None</Choice>
+<Choice>Label</Choice>
+<Choice>Misc</Choice>
+<Choice>Break</Choice>
+<Val>7</Val>
+</EW>
+<Boolean>
+<Name>Log in Word?</Name>
+<Val>0</Val>
+</Boolean>
+<Boolean>
+<Name>Log in XML?</Name>
+<Val>0</Val>
+</Boolean>
+</Cluster>
+</Cluster>
+</Object>
 </Array>
 <String>
 <Name>Protocol ID</Name>
@@ -892,10 +1275,14 @@
 </Array>
 <Array>
 <Name>Plugins Used</Name>
-<Dimsize>1</Dimsize>
+<Dimsize>2</Dimsize>
 <String>
 <Name>String</Name>
 <Val>Wait</Val>
+</String>
+<String>
+<Name>String</Name>
+<Val>Prosim8</Val>
 </String>
 </Array>
 </Cluster>
