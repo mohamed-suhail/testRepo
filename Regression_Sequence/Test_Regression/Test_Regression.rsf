@@ -1,0 +1,76 @@
+<Cluster>
+<Name>Regression Sequence In</Name>
+<NumElts>3</NumElts>
+<String>
+<Name>Cluster Version</Name>
+<Val></Val>
+</String>
+<Array>
+<Name>Regression Steps Info</Name>
+<Dimsize>2</Dimsize>
+<Cluster>
+<Name>Regression Step Info</Name>
+<NumElts>3</NumElts>
+<Path>
+<Name>Project Path</Name>
+<Val>D:\GIT Training\MAVIS Test\MAVIS\testRepo\MAVIS_Projects\MAVIS_Demo_Project</Val>
+</Path>
+<String>
+<Name>Mode</Name>
+<Val>Script</Val>
+</String>
+<String>
+<Name>Step Name</Name>
+<Val>Test_script_1</Val>
+</String>
+</Cluster>
+<Cluster>
+<Name>Regression Step Info</Name>
+<NumElts>3</NumElts>
+<Path>
+<Name>Project Path</Name>
+<Val>D:\GIT Training\MAVIS Test\MAVIS\testRepo\MAVIS_Projects\MAVIS_Demo_Project</Val>
+</Path>
+<String>
+<Name>Mode</Name>
+<Val>Script</Val>
+</String>
+<String>
+<Name>Step Name</Name>
+<Val>Test_script_2</Val>
+</String>
+</Cluster>
+</Array>
+<Array>
+<Name>Project List</Name>
+<Dimsize>1</Dimsize>
+<Cluster>
+<Name>Regression Step Info</Name>
+<NumElts>3</NumElts>
+<Path>
+<Name>Project Path</Name>
+<Val>D:\GIT Training\MAVIS Test\MAVIS\testRepo\MAVIS_Projects\MAVIS_Demo_Project</Val>
+</Path>
+<Array>
+<Name>Scripts used</Name>
+<Dimsize>2</Dimsize>
+<String>
+<Name>Scripts</Name>
+<Val>Test_script_1</Val>
+</String>
+<String>
+<Name>Scripts</Name>
+<Val>Test_script_2</Val>
+</String>
+</Array>
+<Array>
+<Name>Subroutines used</Name>
+<Dimsize>0</Dimsize>
+<String>
+<Name>Scripts</Name>
+<Val></Val>
+</String>
+</Array>
+</Cluster>
+</Array>
+</Cluster>
