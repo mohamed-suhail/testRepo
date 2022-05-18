@@ -12,4 +12,4 @@ InstrumentList.Close in Reverse? = "FALSE"
 
 [DUT]
 Instrument References.Instrument Reference = "\00\00\00\00"
-Control Values.Channel = "0"
+Control Values.Channel = " "
