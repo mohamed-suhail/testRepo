@@ -60,11 +60,11 @@
 <NumElts>3</NumElts>
 <Path>
 <Name>Main UI Path</Name>
-<Val>D:\Draeger SC\Sprint 14\MAVIS Test Plugins\Child Class\Test Plugins\Child Class\UI Test Plugins\Child Class\Image Comparison\Configuration Panel.vi</Val>
+<Val>C:\Program Files (x86)\MAVIS\EXE\MAVIS.exe\MAVIS Test Plugins\Child Class\Test Plugins\Child Class\UI Test Plugins\Child Class\Image Comparison\Configuration Panel.vi</Val>
 </Path>
 <Path>
 <Name>Config UI Path</Name>
-<Val>D:\Draeger SC\Sprint 14\MAVIS Test Plugins\Child Class\Test Plugins\Child Class\UI Test Plugins\Child Class\Image Comparison\Sub VI\Plugin Config VI.vi</Val>
+<Val>C:\Program Files (x86)\MAVIS\EXE\MAVIS.exe\MAVIS Test Plugins\Child Class\Test Plugins\Child Class\UI Test Plugins\Child Class\Image Comparison\Sub VI\Plugin Config VI.vi</Val>
 </Path>
 <Cluster>
 <Name>Basic Step Details</Name>
@@ -142,19 +142,19 @@
 <Dimsize>4</Dimsize>
 <I32>
 <Name>Numeric Control</Name>
-<Val>24</Val>
+<Val>810</Val>
 </I32>
 <I32>
 <Name>Numeric Control</Name>
-<Val>47</Val>
+<Val>314</Val>
 </I32>
 <I32>
 <Name>Numeric Control</Name>
-<Val>44</Val>
+<Val>917</Val>
 </I32>
 <I32>
 <Name>Numeric Control</Name>
-<Val>68</Val>
+<Val>414</Val>
 </I32>
 </Array>
 <Array>
@@ -176,19 +176,19 @@
 <Dimsize>5</Dimsize>
 <I32>
 <Name>Numeric Control</Name>
-<Val>24</Val>
+<Val>810</Val>
 </I32>
 <I32>
 <Name>Numeric Control</Name>
-<Val>47</Val>
+<Val>314</Val>
 </I32>
 <I32>
 <Name>Numeric Control</Name>
-<Val>44</Val>
+<Val>917</Val>
 </I32>
 <I32>
 <Name>Numeric Control</Name>
-<Val>68</Val>
+<Val>414</Val>
 </I32>
 <I32>
 <Name>Numeric Control</Name>
@@ -207,7 +207,7 @@
 <Dimsize>1</Dimsize>
 <String>
 <Name>String</Name>
-<Val>3_2_2022_2452853047.bmp</Val>
+<Val>5_18_2022_1038853985.bmp</Val>
 </String>
 </Array>
 <Array>
@@ -320,11 +320,11 @@
 <NumElts>2</NumElts>
 <U32>
 <Name>X</Name>
-<Val>426</Val>
+<Val>760</Val>
 </U32>
 <U32>
 <Name>Y</Name>
-<Val>193</Val>
+<Val>344</Val>
 </U32>
 </Cluster>
 <Cluster>
@@ -332,11 +332,11 @@
 <NumElts>2</NumElts>
 <I32>
 <Name>X</Name>
-<Val>1</Val>
+<Val>-2</Val>
 </I32>
 <I32>
 <Name>Y</Name>
-<Val>1</Val>
+<Val>-2</Val>
 </I32>
 </Cluster>
 </Cluster>
@@ -368,7 +368,7 @@
 </Cluster>
 <String>
 <Name>Image data</Name>
-<Val>3_2_2022_2452853047.bmp</Val>
+<Val>5_18_2022_1038853985.bmp</Val>
 </String>
 <DBL>
 <Name>Time Limit</Name>
@@ -477,11 +477,11 @@
 <NumElts>3</NumElts>
 <Path>
 <Name>Main UI Path</Name>
-<Val>D:\Draeger SC\Sprint 14\MAVIS Test Plugins\Child Class\Flow Control Plugins\Child Class\Wait\Wait_Config.vi</Val>
+<Val>C:\Program Files (x86)\MAVIS\EXE\MAVIS.exe\MAVIS Test Plugins\Child Class\Flow Control Plugins\Child Class\Wait\Wait_Config.vi</Val>
 </Path>
 <Path>
 <Name>Config UI Path</Name>
-<Val>D:\Draeger SC\Sprint 14\MAVIS Test Plugins\Child Class\Flow Control Plugins\Child Class\Wait\Wait_Config.vi</Val>
+<Val>C:\Program Files (x86)\MAVIS\EXE\MAVIS.exe\MAVIS Test Plugins\Child Class\Flow Control Plugins\Child Class\Wait\Wait_Config.vi</Val>
 </Path>
 <Cluster>
 <Name>Basic Step Details</Name>
