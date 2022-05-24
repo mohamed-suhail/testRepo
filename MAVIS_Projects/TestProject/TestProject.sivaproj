@@ -11,26 +11,478 @@
 <NumElts>13</NumElts>
 <Array>
 <Name>Default Plugin Path[]</Name>
-<Dimsize>0</Dimsize>
+<Dimsize>8</Dimsize>
 <Path>
 <Name>Path</Name>
-<Val></Val>
+<Val>C:\Users\suhail.mathar\Downloads\Sprint 20\Framework Components\Plugins\Plugin Child\SIVA-M Instrument Plugin\SIVA-M Instrument Definition\SIVA-M Instrument Definition.lvclass</Val>
+</Path>
+<Path>
+<Name>Path</Name>
+<Val>C:\Users\suhail.mathar\Downloads\Sprint 20\Framework Components\Plugins\Plugin Child\Tree Plugin\Listing Tree Plugin\Listing Tree Plugin.lvclass</Val>
+</Path>
+<Path>
+<Name>Path</Name>
+<Val>C:\Users\suhail.mathar\Downloads\Sprint 20\Framework Components\Plugins\Plugin Child\Tree Instrument Plugin\Tree Instrument Plugin\Tree Instrument Plugin.lvclass</Val>
+</Path>
+<Path>
+<Name>Path</Name>
+<Val>C:\Users\suhail.mathar\Downloads\Sprint 20\Framework Components\Plugins\Plugin Child\Tree Test Plugin\Tree Test Plugin\Tree Test Plugin.lvclass</Val>
+</Path>
+<Path>
+<Name>Path</Name>
+<Val>C:\Users\suhail.mathar\Downloads\Sprint 20\Framework Components\Plugins\Plugin Child\Tree Flow Control Plugin\Tree Flow Control Plugin\Tree Flow Control Plugin.lvclass</Val>
+</Path>
+<Path>
+<Name>Path</Name>
+<Val>C:\Users\suhail.mathar\Downloads\Sprint 20\Framework Components\Plugins\Plugin Child\Tree Sub-Routine Plugin\Tree Sub-Routine Plugin\Tree Sub-Routine Plugin.lvclass</Val>
+</Path>
+<Path>
+<Name>Path</Name>
+<Val>C:\Users\suhail.mathar\Downloads\Sprint 20\Framework Components\Plugins\Plugin Child\Update ROI Plugin\Update ROI Plugin\Update ROI Plugin.lvclass</Val>
+</Path>
+<Path>
+<Name>Path</Name>
+<Val>C:\Users\suhail.mathar\Downloads\Sprint 20\Framework Components\Plugins\Plugin Child\Day or Night Config Updater\Day or Night Config Updater\Day or Night Config Updater.lvclass</Val>
 </Path>
 </Array>
 <Array>
 <Name>Default Plugin SerializeData[]</Name>
-<Dimsize>0</Dimsize>
+<Dimsize>8</Dimsize>
 <String>
 <Name>String</Name>
-<Val></Val>
+<Val>&lt;Object&gt;
+&lt;Name&gt;SIVAPluginBase in&lt;/Name&gt;
+&lt;NumLevels&gt;2&lt;/NumLevels&gt;
+&lt;Class&gt;SIVA-M Instrument Definition.lvclass&lt;/Class&gt;
+&lt;Version&gt;1.0.0.0&lt;/Version&gt;
+&lt;Version&gt;1.0.0.8&lt;/Version&gt;
+&lt;Cluster&gt;
+&lt;Name&gt;SIVAPluginBase.lvclass&lt;/Name&gt;
+&lt;NumElts&gt;7&lt;/NumElts&gt;
+&lt;Refnum&gt;
+&lt;Name&gt;FromFrame Event [ref]&lt;/Name&gt;
+&lt;RefKind&gt;User Event Refnum&lt;/RefKind&gt;
+&lt;Val&gt;0x55F0003C&lt;/Val&gt;
+&lt;/Refnum&gt;
+&lt;EW&gt;
+&lt;Name&gt;Software Platform&lt;/Name&gt;
+&lt;Choice&gt;LabVIEW&lt;/Choice&gt;
+&lt;Choice&gt;TestStand&lt;/Choice&gt;
+&lt;Val&gt;0&lt;/Val&gt;
+&lt;/EW&gt;
+&lt;String&gt;
+&lt;Name&gt;Plugin Instant Name&lt;/Name&gt;
+&lt;Val&gt;SIVA-M Instrument Definition&lt;/Val&gt;
+&lt;/String&gt;
+&lt;String&gt;
+&lt;Name&gt;Plugin Type&lt;/Name&gt;
+&lt;Val&gt;Instrument Definition&lt;/Val&gt;
+&lt;/String&gt;
+&lt;Path&gt;
+&lt;Name&gt;Project Folder Path&lt;/Name&gt;
+&lt;Val&gt;D:\Rough\GIT Test\testRepo\MAVIS_Projects\TestProject&lt;/Val&gt;
+&lt;/Path&gt;
+&lt;Refnum&gt;
+&lt;Name&gt;Engine VI [ref]&lt;/Name&gt;
+&lt;RefKind&gt;LV Object&lt;/RefKind&gt;
+&lt;RefType&gt;VI&lt;/RefType&gt;
+&lt;Val&gt;0x8F2001B5&lt;/Val&gt;
+&lt;/Refnum&gt;
+&lt;Boolean&gt;
+&lt;Name&gt;Is Dirty?&lt;/Name&gt;
+&lt;Val&gt;1&lt;/Val&gt;
+&lt;/Boolean&gt;
+&lt;/Cluster&gt;
+&lt;Cluster&gt;
+&lt;/Cluster&gt;
+&lt;/Object&gt;
+</Val>
+</String>
+<String>
+<Name>String</Name>
+<Val>&lt;Object&gt;
+&lt;Name&gt;SIVAPluginBase in&lt;/Name&gt;
+&lt;NumLevels&gt;2&lt;/NumLevels&gt;
+&lt;Class&gt;Listing Tree Plugin.lvclass&lt;/Class&gt;
+&lt;Version&gt;1.0.0.0&lt;/Version&gt;
+&lt;Version&gt;1.0.0.8&lt;/Version&gt;
+&lt;Cluster&gt;
+&lt;Name&gt;SIVAPluginBase.lvclass&lt;/Name&gt;
+&lt;NumElts&gt;7&lt;/NumElts&gt;
+&lt;Refnum&gt;
+&lt;Name&gt;FromFrame Event [ref]&lt;/Name&gt;
+&lt;RefKind&gt;User Event Refnum&lt;/RefKind&gt;
+&lt;Val&gt;0x5600003D&lt;/Val&gt;
+&lt;/Refnum&gt;
+&lt;EW&gt;
+&lt;Name&gt;Software Platform&lt;/Name&gt;
+&lt;Choice&gt;LabVIEW&lt;/Choice&gt;
+&lt;Choice&gt;TestStand&lt;/Choice&gt;
+&lt;Val&gt;0&lt;/Val&gt;
+&lt;/EW&gt;
+&lt;String&gt;
+&lt;Name&gt;Plugin Instant Name&lt;/Name&gt;
+&lt;Val&gt;Listing Tree Plugin&lt;/Val&gt;
+&lt;/String&gt;
+&lt;String&gt;
+&lt;Name&gt;Plugin Type&lt;/Name&gt;
+&lt;Val&gt;Main Tree Frame&lt;/Val&gt;
+&lt;/String&gt;
+&lt;Path&gt;
+&lt;Name&gt;Project Folder Path&lt;/Name&gt;
+&lt;Val&gt;D:\Rough\GIT Test\testRepo\MAVIS_Projects\TestProject&lt;/Val&gt;
+&lt;/Path&gt;
+&lt;Refnum&gt;
+&lt;Name&gt;Engine VI [ref]&lt;/Name&gt;
+&lt;RefKind&gt;LV Object&lt;/RefKind&gt;
+&lt;RefType&gt;VI&lt;/RefType&gt;
+&lt;Val&gt;0x8FA001D9&lt;/Val&gt;
+&lt;/Refnum&gt;
+&lt;Boolean&gt;
+&lt;Name&gt;Is Dirty?&lt;/Name&gt;
+&lt;Val&gt;1&lt;/Val&gt;
+&lt;/Boolean&gt;
+&lt;/Cluster&gt;
+&lt;Cluster&gt;
+&lt;/Cluster&gt;
+&lt;/Object&gt;
+</Val>
+</String>
+<String>
+<Name>String</Name>
+<Val>&lt;Object&gt;
+&lt;Name&gt;SIVAPluginBase in&lt;/Name&gt;
+&lt;NumLevels&gt;2&lt;/NumLevels&gt;
+&lt;Class&gt;Tree Instrument Plugin.lvclass&lt;/Class&gt;
+&lt;Version&gt;1.0.0.0&lt;/Version&gt;
+&lt;Version&gt;1.0.0.8&lt;/Version&gt;
+&lt;Cluster&gt;
+&lt;Name&gt;SIVAPluginBase.lvclass&lt;/Name&gt;
+&lt;NumElts&gt;7&lt;/NumElts&gt;
+&lt;Refnum&gt;
+&lt;Name&gt;FromFrame Event [ref]&lt;/Name&gt;
+&lt;RefKind&gt;User Event Refnum&lt;/RefKind&gt;
+&lt;Val&gt;0x5610003E&lt;/Val&gt;
+&lt;/Refnum&gt;
+&lt;EW&gt;
+&lt;Name&gt;Software Platform&lt;/Name&gt;
+&lt;Choice&gt;LabVIEW&lt;/Choice&gt;
+&lt;Choice&gt;TestStand&lt;/Choice&gt;
+&lt;Val&gt;0&lt;/Val&gt;
+&lt;/EW&gt;
+&lt;String&gt;
+&lt;Name&gt;Plugin Instant Name&lt;/Name&gt;
+&lt;Val&gt;Tree Instrument Plugin&lt;/Val&gt;
+&lt;/String&gt;
+&lt;String&gt;
+&lt;Name&gt;Plugin Type&lt;/Name&gt;
+&lt;Val&gt;Instrument Plugins Tree&lt;/Val&gt;
+&lt;/String&gt;
+&lt;Path&gt;
+&lt;Name&gt;Project Folder Path&lt;/Name&gt;
+&lt;Val&gt;D:\Rough\GIT Test\testRepo\MAVIS_Projects\TestProject&lt;/Val&gt;
+&lt;/Path&gt;
+&lt;Refnum&gt;
+&lt;Name&gt;Engine VI [ref]&lt;/Name&gt;
+&lt;RefKind&gt;LV Object&lt;/RefKind&gt;
+&lt;RefType&gt;VI&lt;/RefType&gt;
+&lt;Val&gt;0x8FC001D7&lt;/Val&gt;
+&lt;/Refnum&gt;
+&lt;Boolean&gt;
+&lt;Name&gt;Is Dirty?&lt;/Name&gt;
+&lt;Val&gt;1&lt;/Val&gt;
+&lt;/Boolean&gt;
+&lt;/Cluster&gt;
+&lt;Cluster&gt;
+&lt;/Cluster&gt;
+&lt;/Object&gt;
+</Val>
+</String>
+<String>
+<Name>String</Name>
+<Val>&lt;Object&gt;
+&lt;Name&gt;SIVAPluginBase in&lt;/Name&gt;
+&lt;NumLevels&gt;2&lt;/NumLevels&gt;
+&lt;Class&gt;Tree Test Plugin.lvclass&lt;/Class&gt;
+&lt;Version&gt;1.0.0.0&lt;/Version&gt;
+&lt;Version&gt;1.0.0.8&lt;/Version&gt;
+&lt;Cluster&gt;
+&lt;Name&gt;SIVAPluginBase.lvclass&lt;/Name&gt;
+&lt;NumElts&gt;7&lt;/NumElts&gt;
+&lt;Refnum&gt;
+&lt;Name&gt;FromFrame Event [ref]&lt;/Name&gt;
+&lt;RefKind&gt;User Event Refnum&lt;/RefKind&gt;
+&lt;Val&gt;0x5620003F&lt;/Val&gt;
+&lt;/Refnum&gt;
+&lt;EW&gt;
+&lt;Name&gt;Software Platform&lt;/Name&gt;
+&lt;Choice&gt;LabVIEW&lt;/Choice&gt;
+&lt;Choice&gt;TestStand&lt;/Choice&gt;
+&lt;Val&gt;0&lt;/Val&gt;
+&lt;/EW&gt;
+&lt;String&gt;
+&lt;Name&gt;Plugin Instant Name&lt;/Name&gt;
+&lt;Val&gt;Tree Test Plugin&lt;/Val&gt;
+&lt;/String&gt;
+&lt;String&gt;
+&lt;Name&gt;Plugin Type&lt;/Name&gt;
+&lt;Val&gt;Test Plugins Tree&lt;/Val&gt;
+&lt;/String&gt;
+&lt;Path&gt;
+&lt;Name&gt;Project Folder Path&lt;/Name&gt;
+&lt;Val&gt;D:\Rough\GIT Test\testRepo\MAVIS_Projects\TestProject&lt;/Val&gt;
+&lt;/Path&gt;
+&lt;Refnum&gt;
+&lt;Name&gt;Engine VI [ref]&lt;/Name&gt;
+&lt;RefKind&gt;LV Object&lt;/RefKind&gt;
+&lt;RefType&gt;VI&lt;/RefType&gt;
+&lt;Val&gt;0x8FE001C8&lt;/Val&gt;
+&lt;/Refnum&gt;
+&lt;Boolean&gt;
+&lt;Name&gt;Is Dirty?&lt;/Name&gt;
+&lt;Val&gt;1&lt;/Val&gt;
+&lt;/Boolean&gt;
+&lt;/Cluster&gt;
+&lt;Cluster&gt;
+&lt;/Cluster&gt;
+&lt;/Object&gt;
+</Val>
+</String>
+<String>
+<Name>String</Name>
+<Val>&lt;Object&gt;
+&lt;Name&gt;SIVAPluginBase in&lt;/Name&gt;
+&lt;NumLevels&gt;2&lt;/NumLevels&gt;
+&lt;Class&gt;Tree Flow Control Plugin.lvclass&lt;/Class&gt;
+&lt;Version&gt;1.0.0.0&lt;/Version&gt;
+&lt;Version&gt;1.0.0.8&lt;/Version&gt;
+&lt;Cluster&gt;
+&lt;Name&gt;SIVAPluginBase.lvclass&lt;/Name&gt;
+&lt;NumElts&gt;7&lt;/NumElts&gt;
+&lt;Refnum&gt;
+&lt;Name&gt;FromFrame Event [ref]&lt;/Name&gt;
+&lt;RefKind&gt;User Event Refnum&lt;/RefKind&gt;
+&lt;Val&gt;0x56300040&lt;/Val&gt;
+&lt;/Refnum&gt;
+&lt;EW&gt;
+&lt;Name&gt;Software Platform&lt;/Name&gt;
+&lt;Choice&gt;LabVIEW&lt;/Choice&gt;
+&lt;Choice&gt;TestStand&lt;/Choice&gt;
+&lt;Val&gt;0&lt;/Val&gt;
+&lt;/EW&gt;
+&lt;String&gt;
+&lt;Name&gt;Plugin Instant Name&lt;/Name&gt;
+&lt;Val&gt;Tree Flow Control Plugin&lt;/Val&gt;
+&lt;/String&gt;
+&lt;String&gt;
+&lt;Name&gt;Plugin Type&lt;/Name&gt;
+&lt;Val&gt;Flow Control Tree&lt;/Val&gt;
+&lt;/String&gt;
+&lt;Path&gt;
+&lt;Name&gt;Project Folder Path&lt;/Name&gt;
+&lt;Val&gt;D:\Rough\GIT Test\testRepo\MAVIS_Projects\TestProject&lt;/Val&gt;
+&lt;/Path&gt;
+&lt;Refnum&gt;
+&lt;Name&gt;Engine VI [ref]&lt;/Name&gt;
+&lt;RefKind&gt;LV Object&lt;/RefKind&gt;
+&lt;RefType&gt;VI&lt;/RefType&gt;
+&lt;Val&gt;0x902001C3&lt;/Val&gt;
+&lt;/Refnum&gt;
+&lt;Boolean&gt;
+&lt;Name&gt;Is Dirty?&lt;/Name&gt;
+&lt;Val&gt;1&lt;/Val&gt;
+&lt;/Boolean&gt;
+&lt;/Cluster&gt;
+&lt;Cluster&gt;
+&lt;/Cluster&gt;
+&lt;/Object&gt;
+</Val>
+</String>
+<String>
+<Name>String</Name>
+<Val>&lt;Object&gt;
+&lt;Name&gt;SIVAPluginBase in&lt;/Name&gt;
+&lt;NumLevels&gt;2&lt;/NumLevels&gt;
+&lt;Class&gt;Tree Sub-Routine Plugin.lvclass&lt;/Class&gt;
+&lt;Version&gt;1.0.0.0&lt;/Version&gt;
+&lt;Version&gt;1.0.0.8&lt;/Version&gt;
+&lt;Cluster&gt;
+&lt;Name&gt;SIVAPluginBase.lvclass&lt;/Name&gt;
+&lt;NumElts&gt;7&lt;/NumElts&gt;
+&lt;Refnum&gt;
+&lt;Name&gt;FromFrame Event [ref]&lt;/Name&gt;
+&lt;RefKind&gt;User Event Refnum&lt;/RefKind&gt;
+&lt;Val&gt;0x56400042&lt;/Val&gt;
+&lt;/Refnum&gt;
+&lt;EW&gt;
+&lt;Name&gt;Software Platform&lt;/Name&gt;
+&lt;Choice&gt;LabVIEW&lt;/Choice&gt;
+&lt;Choice&gt;TestStand&lt;/Choice&gt;
+&lt;Val&gt;0&lt;/Val&gt;
+&lt;/EW&gt;
+&lt;String&gt;
+&lt;Name&gt;Plugin Instant Name&lt;/Name&gt;
+&lt;Val&gt;Tree Sub-Routine Plugin&lt;/Val&gt;
+&lt;/String&gt;
+&lt;String&gt;
+&lt;Name&gt;Plugin Type&lt;/Name&gt;
+&lt;Val&gt;sub-Routines Tree&lt;/Val&gt;
+&lt;/String&gt;
+&lt;Path&gt;
+&lt;Name&gt;Project Folder Path&lt;/Name&gt;
+&lt;Val&gt;D:\Rough\GIT Test\testRepo\MAVIS_Projects\TestProject&lt;/Val&gt;
+&lt;/Path&gt;
+&lt;Refnum&gt;
+&lt;Name&gt;Engine VI [ref]&lt;/Name&gt;
+&lt;RefKind&gt;LV Object&lt;/RefKind&gt;
+&lt;RefType&gt;VI&lt;/RefType&gt;
+&lt;Val&gt;0x905001CA&lt;/Val&gt;
+&lt;/Refnum&gt;
+&lt;Boolean&gt;
+&lt;Name&gt;Is Dirty?&lt;/Name&gt;
+&lt;Val&gt;1&lt;/Val&gt;
+&lt;/Boolean&gt;
+&lt;/Cluster&gt;
+&lt;Cluster&gt;
+&lt;/Cluster&gt;
+&lt;/Object&gt;
+</Val>
+</String>
+<String>
+<Name>String</Name>
+<Val>&lt;Object&gt;
+&lt;Name&gt;SIVAPluginBase in&lt;/Name&gt;
+&lt;NumLevels&gt;2&lt;/NumLevels&gt;
+&lt;Class&gt;Update ROI Plugin.lvclass&lt;/Class&gt;
+&lt;Version&gt;1.0.0.0&lt;/Version&gt;
+&lt;Version&gt;1.0.0.8&lt;/Version&gt;
+&lt;Cluster&gt;
+&lt;Name&gt;SIVAPluginBase.lvclass&lt;/Name&gt;
+&lt;NumElts&gt;7&lt;/NumElts&gt;
+&lt;Refnum&gt;
+&lt;Name&gt;FromFrame Event [ref]&lt;/Name&gt;
+&lt;RefKind&gt;User Event Refnum&lt;/RefKind&gt;
+&lt;Val&gt;0x56500043&lt;/Val&gt;
+&lt;/Refnum&gt;
+&lt;EW&gt;
+&lt;Name&gt;Software Platform&lt;/Name&gt;
+&lt;Choice&gt;LabVIEW&lt;/Choice&gt;
+&lt;Choice&gt;TestStand&lt;/Choice&gt;
+&lt;Val&gt;0&lt;/Val&gt;
+&lt;/EW&gt;
+&lt;String&gt;
+&lt;Name&gt;Plugin Instant Name&lt;/Name&gt;
+&lt;Val&gt;ROI Update Utility&lt;/Val&gt;
+&lt;/String&gt;
+&lt;String&gt;
+&lt;Name&gt;Plugin Type&lt;/Name&gt;
+&lt;Val&gt;ROI Update&lt;/Val&gt;
+&lt;/String&gt;
+&lt;Path&gt;
+&lt;Name&gt;Project Folder Path&lt;/Name&gt;
+&lt;Val&gt;D:\Rough\GIT Test\testRepo\MAVIS_Projects\TestProject&lt;/Val&gt;
+&lt;/Path&gt;
+&lt;Refnum&gt;
+&lt;Name&gt;Engine VI [ref]&lt;/Name&gt;
+&lt;RefKind&gt;LV Object&lt;/RefKind&gt;
+&lt;RefType&gt;VI&lt;/RefType&gt;
+&lt;Val&gt;0x908001CD&lt;/Val&gt;
+&lt;/Refnum&gt;
+&lt;Boolean&gt;
+&lt;Name&gt;Is Dirty?&lt;/Name&gt;
+&lt;Val&gt;1&lt;/Val&gt;
+&lt;/Boolean&gt;
+&lt;/Cluster&gt;
+&lt;Cluster&gt;
+&lt;/Cluster&gt;
+&lt;/Object&gt;
+</Val>
+</String>
+<String>
+<Name>String</Name>
+<Val>&lt;Object&gt;
+&lt;Name&gt;SIVAPluginBase in&lt;/Name&gt;
+&lt;NumLevels&gt;2&lt;/NumLevels&gt;
+&lt;Class&gt;Day or Night Config Updater.lvclass&lt;/Class&gt;
+&lt;Version&gt;1.0.0.0&lt;/Version&gt;
+&lt;Version&gt;1.0.0.8&lt;/Version&gt;
+&lt;Cluster&gt;
+&lt;Name&gt;SIVAPluginBase.lvclass&lt;/Name&gt;
+&lt;NumElts&gt;7&lt;/NumElts&gt;
+&lt;Refnum&gt;
+&lt;Name&gt;FromFrame Event [ref]&lt;/Name&gt;
+&lt;RefKind&gt;User Event Refnum&lt;/RefKind&gt;
+&lt;Val&gt;0x56600046&lt;/Val&gt;
+&lt;/Refnum&gt;
+&lt;EW&gt;
+&lt;Name&gt;Software Platform&lt;/Name&gt;
+&lt;Choice&gt;LabVIEW&lt;/Choice&gt;
+&lt;Choice&gt;TestStand&lt;/Choice&gt;
+&lt;Val&gt;0&lt;/Val&gt;
+&lt;/EW&gt;
+&lt;String&gt;
+&lt;Name&gt;Plugin Instant Name&lt;/Name&gt;
+&lt;Val&gt;Config Update Utility&lt;/Val&gt;
+&lt;/String&gt;
+&lt;String&gt;
+&lt;Name&gt;Plugin Type&lt;/Name&gt;
+&lt;Val&gt;Config Update&lt;/Val&gt;
+&lt;/String&gt;
+&lt;Path&gt;
+&lt;Name&gt;Project Folder Path&lt;/Name&gt;
+&lt;Val&gt;D:\Rough\GIT Test\testRepo\MAVIS_Projects\TestProject&lt;/Val&gt;
+&lt;/Path&gt;
+&lt;Refnum&gt;
+&lt;Name&gt;Engine VI [ref]&lt;/Name&gt;
+&lt;RefKind&gt;LV Object&lt;/RefKind&gt;
+&lt;RefType&gt;VI&lt;/RefType&gt;
+&lt;Val&gt;0x90B001C5&lt;/Val&gt;
+&lt;/Refnum&gt;
+&lt;Boolean&gt;
+&lt;Name&gt;Is Dirty?&lt;/Name&gt;
+&lt;Val&gt;1&lt;/Val&gt;
+&lt;/Boolean&gt;
+&lt;/Cluster&gt;
+&lt;Cluster&gt;
+&lt;/Cluster&gt;
+&lt;/Object&gt;
+</Val>
 </String>
 </Array>
 <Array>
 <Name>Default Plugin Type[]</Name>
-<Dimsize>0</Dimsize>
+<Dimsize>8</Dimsize>
 <String>
 <Name>String</Name>
-<Val></Val>
+<Val>Instrument Definition</Val>
+</String>
+<String>
+<Name>String</Name>
+<Val>Main Tree Frame</Val>
+</String>
+<String>
+<Name>String</Name>
+<Val>Instrument Plugins Tree</Val>
+</String>
+<String>
+<Name>String</Name>
+<Val>Test Plugins Tree</Val>
+</String>
+<String>
+<Name>String</Name>
+<Val>Flow Control Tree</Val>
+</String>
+<String>
+<Name>String</Name>
+<Val>sub-Routines Tree</Val>
+</String>
+<String>
+<Name>String</Name>
+<Val>ROI Update</Val>
+</String>
+<String>
+<Name>String</Name>
+<Val>Config Update</Val>
 </String>
 </Array>
 <Array>
@@ -77,11 +529,11 @@
 </Array>
 <Path>
 <Name>Project Folder</Name>
-<Val>C:\Program Files (x86)\National Instruments\LabVIEW 2016\user.lib\_Soliton\SIVA\Template Creation Utility\Project Instantiation\Template Project</Val>
+<Val>D:\Rough\GIT Test\testRepo\MAVIS_Projects\TestProject</Val>
 </Path>
 <String>
 <Name>Project File Name</Name>
-<Val>Template Project.sivaproj</Val>
+<Val>TestProject.sivaproj</Val>
 </String>
 <Refnum>
 <Name>Active Plugin [ref]</Name>
