@@ -1,6 +1,6 @@
 <?xml version='1.0' standalone='yes' ?>
 <LVData xmlns="http://www.ni.com/LVData">
-<Version>18.0.1</Version>
+<Version>18.0.1f4</Version>
 <Object>
 <Name>Plugin Manager in</Name>
 <NumLevels>1</NumLevels>
@@ -557,7 +557,7 @@
 </U32>
 <U32>
 <Name>Build</Name>
-<Val>2</Val>
+<Val>1</Val>
 </U32>
 </Cluster>
 </Cluster>
